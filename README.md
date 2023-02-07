@@ -14,4 +14,4 @@
 - Adobe Illustrator
 ## 💬 Language
 - Spanish (native)
-- English (B2)
+- English (A2)
