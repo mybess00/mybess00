@@ -6,7 +6,7 @@ I have experience developing android applications with Android Studio and Java. 
 - 📫 **Contact: betancourtrafael00@gmail.com**
 - 📍 **Location: Cuba**
 ## 🤓 What do i know?
-**JavaScript • Java • CSS • HTML • React • Node.js • Astro • Tailwind CSS • MySQL**
+**JavaScript • Java • CSS • HTML • React • Next.js • Node.js • Astro • Tailwind CSS • MySQL**
 #### 🛠 Other Skills
 **Adobe Photoshop • Adobe Illustrator**
 ## 👨‍💻 My Favorite Tech Stack
