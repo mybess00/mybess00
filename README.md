@@ -6,12 +6,7 @@ I have experience developing android applications with Android Studio and Java. 
 - 📫 **Contact: betancourtrafael00@gmail.com**
 - 📍 **Location: Cuba**
 ## 🤓 What do i know?
-#### 📄 Language:
-**JavaScript • Java • CSS • HTML • SQL**
-#### 💻 Technologies: 
-**React • Node.js • Astro • Tailwind CSS**
-#### 📁 Data Bases:
-**MySQL**
+**JavaScript • Java • CSS • HTML • React • Node.js • Astro • Tailwind CSS • MySQL**
 #### 🛠 Other Skills
 **Adobe Photoshop • Adobe Illustrator**
 ## 👨‍💻 My Favorite Tech Stack
@@ -27,7 +22,7 @@ I have experience developing android applications with Android Studio and Java. 
 ## 💡 My Projects
 ### Frame it!
 Frame it is a web app that allows you to frame and customize your favorite tweets in a simple way. You can choose from various layouts and customization options to make your tweets unique. Once you've created your design, you can download your custom tweet as a PNG file and share it on other social networks. [**Take a look**](https://github.com/mybess00/frame-it)
-- **React · Node.js · Tailwind CSS · daisyUI**
+- **React · Node.js · TailwindCSS · daisyUI**
 
 ### One Look
 One Look it's a link unifier that emerges as an open source and self-hosted alternative to tools like Linktree, ContactInBio, Linkpop, Campsite and Bio.Link. The links are organized in the form of cards that have a high level of customization. It also has a component that is a payment method organizer.  [**Take a look**](https://github.com/mybess00/one-look)
