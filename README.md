@@ -6,13 +6,23 @@ I have experience developing android applications with Android Studio and Java. 
 - 📫 **Contact: betancourtrafael00@gmail.com**
 - 📍 **Location: Cuba**
 ## 🤓 What do i know?
-**JavaScript • Java • CSS • HTML • React • Next.js • Node.js • Astro • Tailwind CSS • MySQL**
-#### 🛠 Other Skills
-**Adobe Photoshop • Adobe Illustrator**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro,nodejs,tailwind,java,androidstudio,mysql,vercel)]()
+
+<div>
+<img alt="Illustrator" src="https://github-readme-stats.vercel.app/api/top-langs?username=mybess00&show_icons=true&locale=en&layout=compact"/>
+</div>
+
+### 🛠 Other Skills
+<div>
+<img alt="Photoshop" src="https://user-images.githubusercontent.com/69021807/236640692-45450a3f-7294-461e-b624-6378d3f87cf5.png" width="45" height="45"/>
+<img alt="Illustrator" src="https://user-images.githubusercontent.com/69021807/236640649-a80c975f-014b-49cc-a987-65ddb5b9c7fc.png" width="45" height="45"/>
+</div>
+
+
 ## 👨‍💻 My Favorite Tech Stack
 - JavaScript 
-- **SPA:** React
-- **MPA:** Astro
+- **Dynamic Website:** Next.js
+- **Static Website:** Astro
 - Node.js
 - Tailwind CSS
 - daisyUI
